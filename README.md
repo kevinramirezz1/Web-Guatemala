@@ -1,2 +1,3 @@
 # Web-Guatemala
-Lugaeres y Costumbres de Guatemala
+Lugares y Costumbres de Guatemala
+
