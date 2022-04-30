@@ -201,7 +201,6 @@ h2 {
     left: 690px;
     bottom: 6px;
     border-radius: 50px;
-    cursor: pointer;
   }
   .scroll-down::before,
   .scroll-down::after {
@@ -239,3 +238,20 @@ h2 {
       opacity: 0;
     }
   }
+
+  img.tikal {
+    position: absolute;
+    width: 685px;
+    height: 697px;
+    left: 8px;
+    top: 794px;
+}
+ img.imgtikal {
+    position : absolute;
+    width: 444px;
+    height: 256px;
+    left: 129px;
+    top: 815px;
+    
+    border-radius: 25px;
+}
