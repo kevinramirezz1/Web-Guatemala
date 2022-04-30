@@ -239,14 +239,15 @@ h2 {
     }
   }
 
-  img.tikal {
+img.tikal {
     position: absolute;
     width: 685px;
     height: 697px;
     left: 8px;
     top: 794px;
 }
- img.imgtikal {
+
+img.imgtikal {
     position : absolute;
     width: 444px;
     height: 256px;
@@ -254,4 +255,120 @@ h2 {
     top: 815px;
     
     border-radius: 25px;
+}
+
+h1.titul {
+    position: absolute;
+    width: 225px;
+    left: 239px;
+    top: 1086px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+p3 {
+    position: absolute;
+    width: 309px;
+    height: 130px;
+    left: 199px;
+    top: 1129px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.tikalbtn{
+    position: absolute;
+    width: 137px;
+    height: 37px;
+    left: 280px;
+    top: 1253px;
+
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 35px;
+
+    font-family: var(--tipo-principal)
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+
+    color:#fff;
+}
+
+
+img.semuc {
+    position: absolute;
+    width: 361px;
+    height: 233px;
+    left: 630px;
+    top: 794px;
+
+    border-radius: 25px;
+}
+
+img.imgsemuc {
+    position: relative;
+    width: 196px;
+    height: 202px;
+    left: 105px;
+    top: 393px;
+
+    border-radius: 25px;
+}
+
+h1.titul2 {
+    position: absolute;
+    width: 123px;
+    height: 58px;
+    left: 850px;
+    top: 822px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+p4{
+    position:absolute;
+    width: 127px;
+    height: 103px;
+    left: 850px;
+    top: 900px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.semucbtn{
+    position: absolute;
+    width: 113px;
+    height: 32px;
+    left: 684px;
+    top: 970px;
+
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 8px;
+
+    font-family: var(--tipo-principal)
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+
+    color:#fff;
 }
