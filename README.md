@@ -1,7 +1,9 @@
 !Hola¡👋
 
 <div align="center">  
-<a target="_black"><img src="https://img.shields.io/website?down_message=Web-Guatemala&style=for-the-badge&up_message=Web&url=https%3A%2F%2Fkevinramirezz1.github.io%2FWeb-Guatemala%2F" target="_black"></a>
+
+![Favicon](https://user-images.githubusercontent.com/76236808/166110796-dadc49df-d143-43be-9c62-6436d516161d.png)
+<h3> <a href="https://kevinramirezz1.github.io/Web-Guatemala/">Web side</a> </h3>
 </div
 
 
