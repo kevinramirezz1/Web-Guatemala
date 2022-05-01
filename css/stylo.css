@@ -373,6 +373,7 @@ p4{
     color:#fff;
 }
 
+
 img.pacaya {
     position: absolute;
     width: 361px;
@@ -417,4 +418,222 @@ p5{
     font-weight: 400;
     font-size: 10px;
     line-height: 15px;
+}
+
+.pacayabtn{
+    position: absolute;
+    width: 113px;
+    height: 32px;
+    left: 1080px;
+    top: 970px;
+
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 8px;
+
+    font-family: var(--tipo-principal)
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+
+    color:#fff;
+}
+
+img.acatenango {
+    position: absolute;
+    width: 361px;
+    height: 233px;
+    left: 629px;
+    top: 1061px;
+}
+
+img.imgacatenango {
+    position: absolute;
+    width: 196px;
+    height: 202px;
+    left: 646px;
+    top: 1076px;
+
+    border-radius: 25px;
+}
+
+h1.titul4 {
+    position: absolute;
+    width: 123px;
+    height: 58px;
+    left: 850px;
+    top: 1081px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+p6 {
+    position: absolute;
+    width: 132px;
+    height: 110px;
+    left: 850px;
+    top: 1155px;
+    
+    font-family: var(--tipo-principal);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+.acatenangobtn{
+    position: absolute;
+    width: 113px;
+    height: 32px;
+    left: 684px;
+    top: 1236px;
+
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 8px;
+
+    font-family: var(--tipo-principal)
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+
+    color:#fff;
+}
+
+img.panajachel {
+    position: absolute;
+    width: 361px;
+    height: 233px;
+    left: 1021px;
+    top: 1061px;
+}
+
+img.imgpanajachel {
+    position: absolute;
+    width: 196px;
+    height: 202px;
+    left: 1042px;
+    top: 1076px;
+
+    border-radius: 25px;
+}
+
+h1.titul5 {
+    position: absolute;
+    width: 123px;
+    height: 58px;
+    left: 1242px;
+    top: 1081px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+p7 {
+    position: absolute;
+    width: 132px;
+    height: 110px;
+    left: 1245px;
+    top: 1118px;
+    
+    font-family: var(--tipo-principal);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+.panajachelbtn{
+    position: absolute;
+    width: 113px;
+    height: 32px;
+    left: 1090px;
+    top: 1236px;
+
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 8px;
+
+    font-family: var(--tipo-principal)
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+
+    color:#fff;
+}
+
+.ubicacion {
+    position: absolute;
+    width: 783px;
+    height: 89px;
+    left: 356px;
+    top: 1332px;
+
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 8px;
+
+    font-family: var(--tipo-principal)
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    color:#fff;
+}
+
+h5.tituloK {
+    position: absolute;
+    width: 225px;
+    height: 17px;
+    left: 656px;
+    top: 1439px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+img.ig {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 652px;
+    top: 1466px
+}
+
+img.tw {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 720px;
+    top: 1466px
+}
+
+img.gt {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 794px;
+    top: 1466px
+}
+
+img.bh {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 850px;
+    top: 1466px
 }
