@@ -316,11 +316,11 @@ img.semuc {
 }
 
 img.imgsemuc {
-    position: relative;
+    position: absolute;
     width: 196px;
     height: 202px;
-    left: 105px;
-    top: 393px;
+    left: 646px;
+    top: 808px;
 
     border-radius: 25px;
 }
@@ -371,4 +371,50 @@ p4{
     line-height: 30px;
 
     color:#fff;
+}
+
+img.pacaya {
+    position: absolute;
+    width: 361px;
+    height: 233px;
+    left: 1020px;
+    top: 794px;
+}
+
+img.imgpacaya {
+    position: absolute;
+    width: 196px;
+    height: 202px;
+    left: 1040px;
+    top: 808px;
+
+    border-radius: 25px;
+}
+
+h1.titul3 {
+    position: absolute;
+    width: 123px;
+    height: 58px;
+    left: 1244px;
+    top: 822px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+p5{
+    position:absolute;
+    width: 132px;
+    height: 103px;
+    left: 1245px;
+    top: 890px;
+
+    font-family: var(--tipo-titular);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
 }
